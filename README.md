@@ -60,7 +60,7 @@ Below is a comparative breakdown of top commercial SaaS MLOps and CI/CD orchestr
 
 ### ⚡ End-to-End MLOps Platforms
 
-| Project | GitHub Stars Badge | License | Description & Use Case |
+| Project | GitHub_Stars_Badge | License | Description & Use Case |
 | :--- | :--- | :--- | :--- |
 | **[Apache Airflow](https://github.com/apache/airflow)** | [![Stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers) | Apache-2.0 | **De facto workflow orchestration standard**. Python DAGs for scheduling, monitoring, and executing pipelines. |
 | **[Kubeflow](https://github.com/kubeflow/kubeflow)** | [![Stars](https://img.shields.io/github/stars/kubeflow/kubeflow?style=social&color=white)](https://github.com/kubeflow/kubeflow/stargazers) | Apache-2.0 | **CNCF-graduated cloud-native AI standard**. Complete lifecycle: Pipelines, Katib tuning, Training Operator, and KServe. |
@@ -72,7 +72,7 @@ Below is a comparative breakdown of top commercial SaaS MLOps and CI/CD orchestr
 
 ### 🔄 Workflow Orchestration
 
-| Project | GitHub Stars Badge | License | Description & Use Case |
+| Project | GitHub_Stars_Badge | License | Description & Use Case |
 | :--- | :--- | :--- | :--- |
 | **[Prefect](https://github.com/PrefectHQ/prefect)** | [![Stars](https://img.shields.io/github/stars/PrefectHQ/prefect?style=social&color=white)](https://github.com/PrefectHQ/prefect/stargazers) | Apache-2.0 | **Python-native workflow orchestration**. Dynamic DAG-less workflows with automatic retries and caching. |
 | **[Argo Workflows](https://github.com/argoproj/argo-workflows)** | [![Stars](https://img.shields.io/github/stars/argoproj/argo-workflows?style=social&color=white)](https://github.com/argoproj/argo-workflows/stargazers) | Apache-2.0 | **Kubernetes-native container engine**. Orchestrates parallel jobs using DAGs or step-based workflows. |
@@ -84,7 +84,7 @@ Below is a comparative breakdown of top commercial SaaS MLOps and CI/CD orchestr
 
 ### 📊 Experiment Tracking & Model Registry
 
-| Project | GitHub Stars Badge | License | Description & Use Case |
+| Project | GitHub_Stars_Badge | License | Description & Use Case |
 | :--- | :--- | :--- | :--- |
 | **[MLflow](https://github.com/mlflow/mlflow)** | [![Stars](https://img.shields.io/github/stars/mlflow/mlflow?style=social&color=white)](https://github.com/mlflow/mlflow/stargazers) | Apache-2.0 | **De facto experiment tracking standard**. Tracking, model registry, projects, and LLM evaluation metrics. |
 | **[ClearML Open-Source](https://github.com/allegroai/clearml)** | [![Stars](https://img.shields.io/github/stars/allegroai/clearml?style=social&color=white)](https://github.com/allegroai/clearml/stargazers) | Apache-2.0 | **Auto-magical experiment tracking & MLOps**. Zero code changes required for experiment logging and autoscaling. |
@@ -94,7 +94,7 @@ Below is a comparative breakdown of top commercial SaaS MLOps and CI/CD orchestr
 
 ### 📦 Data & Model Versioning
 
-| Project | GitHub Stars Badge | License | Description & Use Case |
+| Project | GitHub_Stars_Badge | License | Description & Use Case |
 | :--- | :--- | :--- | :--- |
 | **[DVC (Data Version Control)](https://github.com/iterative/dvc)** | [![Stars](https://img.shields.io/github/stars/iterative/dvc?style=social&color=white)](https://github.com/iterative/dvc/stargazers) | Apache-2.0 | **Git-compatible data & model versioning**. Tracks large datasets, model artifacts, and pipeline stages via Git. |
 | **[lakeFS](https://github.com/treeverse/lakeFS)** | [![Stars](https://img.shields.io/github/stars/treeverse/lakeFS?style=social&color=white)](https://github.com/treeverse/lakeFS/stargazers) | Apache-2.0 | **Git-like data lake operations**. Branch, commit, merge, and rollback operations on S3/GCS data lakes. |
@@ -104,7 +104,7 @@ Below is a comparative breakdown of top commercial SaaS MLOps and CI/CD orchestr
 
 ### 🚀 Model Serving & Infrastructure
 
-| Project | GitHub Stars Badge | License | Description & Use Case |
+| Project | GitHub_Stars_Badge | License | Description & Use Case |
 | :--- | :--- | :--- | :--- |
 | **[Ray](https://github.com/ray-project/ray)** | [![Stars](https://img.shields.io/github/stars/ray-project/ray?style=social&color=white)](https://github.com/ray-project/ray/stargazers) | Apache-2.0 | **Unified compute framework for AI**. Scalable distributed training, hyperparameter tuning (Ray Tune), and serving (Ray Serve). |
 | **[Apache Beam](https://github.com/apache/beam)** | [![Stars](https://img.shields.io/github/stars/apache/beam?style=social&color=white)](https://github.com/apache/beam/stargazers) | Apache-2.0 | **Unified batch and stream data processing**. Portable pipeline execution on Flink, Spark, or Dataflow. |
@@ -129,7 +129,7 @@ When building a custom open-source MLOps platform, stack selections depend on in
 
 1. Fork the repository.
 2. Add or update entries in `README.md` following the tabular layout.
-3. Ensure GitHub project links and star badges are included.
+3. Ensure GitHub project links and Stars_Badges are included.
 4. Open a Pull Request with a clear description of the changes.
 
 ---
