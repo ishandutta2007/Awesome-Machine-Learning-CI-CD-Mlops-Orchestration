@@ -6,9 +6,7 @@
 
 ## 🌟 Top Machine Learning CI/CD & MLOps Orchestration Ecosystem
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![MLOps](https://img.shields.io/badge/MLOps-CI%2FCD%20%26%20Orchestration-blue.svg)](https://github.com/ishandutta2007/Awesome-Machine-Learning-CI-CD-Mlops-Orchestration)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Disoord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ishandutta2007/Aeesome-Awesome-Awesome) [![MLOps](https://img.shields.io/badge/MLOps-CI%2FCD%20%26%20Orchestration-blue.svg)](https://github.com/ishandutta2007/Awesome-Machine-Learning-CI-CD-Mlops-Orchestration) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **Curated Stack of SaaS Platforms & High-Star Open-Source GitHub Projects**  
 *Focused on ML Pipelines, Experiment Tracking, Model Serving, & Self-Hosted MLOps Orchestration*  
@@ -34,7 +32,9 @@
   - [📦 Data & Model Versioning](#-data--model-versioning)
   - [🚀 Model Serving & Infrastructure](#-model-serving--infrastructure)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
 - [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
+- [⭐ Star History](#-star-history)
 
 ---
 
@@ -134,11 +134,26 @@ When building a custom open-source MLOps platform, stack selections depend on in
 
 ---
 
+## 💖 Support
+
+Thank you for visiting and using this repository! If you find this curated collection of MLOps and Machine Learning CI/CD tools helpful, please consider starring ⭐, forking 🍴, or sharing it with your colleagues and community.
+
+If you would like to support ongoing maintenance and content updates, you can buy me a coffee via the Sponsor Dashboard:  
+👉 **[Sponsor & Support on GitHub](https://github.com/sponsors/ishandutta2007)** ☕
+
+---
+
 ## ⚠️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an official endorsement.
 - ML CI/CD and MLOps platforms process production model weights and enterprise data; ensure proper network security policies and compliance hardening.
 - All trademarks belong to their respective owners.
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Machine-Learning-CI-CD-Mlops-Orchestration&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Machine-Learning-CI-CD-Mlops-Orchestration&type=date&legend=top-left)
 
 ---
 
